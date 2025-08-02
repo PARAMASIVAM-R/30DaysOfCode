@@ -37,6 +37,7 @@ MoodMail is a fun and practical React app that generates a creative **email subj
 - 🔜 Firebase (coming in Day 3)
 
 ---
+![App Screenshot](./src/assets/Day_02_05.png)
 
 ## 🚀 How to Run
 
