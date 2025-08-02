@@ -31,8 +31,8 @@ A React + TypeScript app that mimics the "Undo Send" feature found in messaging 
 - Toast notifications (via ShadCN/toaster)
 
 
-![App Screenshot](./assets/Day_01_01.png)
-![App Screenshot](./assets/Day_01_02.png)
+![App Screenshot](./src/assets/Day_01_01.png)
+![App Screenshot](./src/assets/Day_01_02.png)
 
 
 
