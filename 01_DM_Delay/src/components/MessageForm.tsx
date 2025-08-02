@@ -27,7 +27,7 @@ const MessageForm = () => {
       setTimeout(() => {
       setSendMessage("");
       console.log('Message cleared automatically');
-      }, 3000);
+      }, 5000);
 
     }, delay * 1000);
     

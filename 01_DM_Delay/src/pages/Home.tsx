@@ -4,7 +4,7 @@ import { Toaster } from "sonner"
 const Home = () => {
   return (
 <>
-    <Toaster richColors position="top-right" />
+    <Toaster richColors position="top-center" />
     <MessageForm/>
 </>
   )
